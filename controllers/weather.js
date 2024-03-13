@@ -1,6 +1,6 @@
 const Weather = require("@models/Weather");
 const Location = require("@models/Locations");
-const Responder = require('@service/responder');
+const Responder = require('@service/Responder');
 const {getWeatherDetails} = require('@service/weather');
 const moment = require("moment");
 
